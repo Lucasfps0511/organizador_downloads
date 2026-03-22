@@ -54,4 +54,12 @@ python project.py
 ```
 ````
 
+## 🤖 Windows Automation
+To make organization even easier, this project includes a `run_organizer.bat` file. 
+
+- **Quick Run:** Double-click the `.bat` file to run the script instantly without opening a terminal.
+- **Scheduled Task:** You can use the **Windows Task Scheduler** to run this `.bat` file daily or at logon, keeping your folders clean automatically.
+
+> **Note:** Make sure to update the paths inside the `.bat` file if you move your project folder.
+
 *Developed as a personal automation project to improve workflow efficiency.*
