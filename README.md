@@ -14,11 +14,11 @@ A robust Python-based automation tool designed to manage and clean up your 'Down
 - **Pathlib:** For modern, cross-platform file system paths.
 - **Pytest:** For automated unit testing.
 
-````markdown
 ## 🧪 Testing
 The project includes a comprehensive test suite to verify the file classification logic.  
 To run the tests, ensure your virtual environment is active and run:
 
+````markdown
 ```bash
 pytest
 ```
